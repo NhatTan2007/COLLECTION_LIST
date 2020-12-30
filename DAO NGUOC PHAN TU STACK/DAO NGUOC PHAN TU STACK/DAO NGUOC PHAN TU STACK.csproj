@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DAO_NGUOC_PHAN_TU_STACK</RootNamespace>
+  </PropertyGroup>
+
+</Project>

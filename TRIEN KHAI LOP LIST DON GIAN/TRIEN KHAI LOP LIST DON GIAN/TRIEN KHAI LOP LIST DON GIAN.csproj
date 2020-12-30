@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TRIEN_KHAI_LOP_LIST_DON_GIAN</RootNamespace>
+  </PropertyGroup>
+
+</Project>
